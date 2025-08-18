@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://korno-no.github.io/)
+- Solution URL: [GitHub Pages](https://korno-no.github.io/)
 
 ## My process
 
